@@ -1,6 +1,6 @@
 public class method {
     public void displaydetails(){
-        int p=30;
+        int p=28;
         System.out.println(" the expected output is"+" "+p);
     }
 
