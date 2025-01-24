@@ -1,5 +1,5 @@
 public class many {
-    static int called =20;
+    static int called =25;
     public void displayvalue(){
         System.out.println("The  expected output is"+" "+called);
 }
