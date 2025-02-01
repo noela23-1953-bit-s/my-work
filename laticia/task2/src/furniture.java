@@ -28,7 +28,7 @@ public class furniture {
         String pink_String=Float.toString(pink);
         System.out.println("Float to String is " + pink);
 
-        String yam="100";
+        String yam="55";
         int co_int= Integer.parseInt(String.copyValueOf(yam.toCharArray()));
         System.out.println("String to Integer is "+ " " + yam);
 
