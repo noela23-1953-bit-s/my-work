@@ -1,6 +1,6 @@
 
 public class Customer {
-    private String name;
+    public String name;
     private String accountName;
     private double balance;
 
