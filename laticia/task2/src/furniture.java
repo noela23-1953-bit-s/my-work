@@ -36,7 +36,7 @@ public class furniture {
         double re_double= Double.parseDouble(String.copyValueOf(re.toCharArray()));
         System.out.println("String to Double is "+ " " +re);
 
-        String kim="638";
+        String kim="78";
         long kim_long= Long.parseLong(String.copyValueOf(kim.toCharArray()));
         System.out.println("String to Long is " + kim);
 
