@@ -18,7 +18,7 @@ public class Customer {
         return accountName;
     }
 
-    public double getBalance() {
+    public double get Balance() {
         return balance;
     }
 
