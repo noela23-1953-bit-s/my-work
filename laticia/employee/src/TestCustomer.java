@@ -13,7 +13,7 @@ public class TestCustomer {
 
         Customer.addFunds(cus, 500.0);
 
-        Customer.attemptingDeduction(cus, 1500.0);
+        Customer.attemptingDeduction(cus, 176.0);
 
     }
 }
