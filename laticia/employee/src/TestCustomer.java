@@ -2,7 +2,7 @@
 public class TestCustomer {
     public static void main(String[] args) {
 
-        Customer cus = new Customer("Cash Money", "NSSF Account", 1000.0);
+        Customer cus = new Customer("Cash Money", "NHHV Account", 1000.0);
 
         System.out.println("Customer's Name is: " + cus.getName());
         System.out.println("Account's Name is : " + cus.getAccountName());
@@ -17,4 +17,3 @@ public class TestCustomer {
 
     }
 }
-
