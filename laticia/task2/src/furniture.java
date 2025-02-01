@@ -40,7 +40,7 @@ public class furniture {
         long kim_long= Long.parseLong(String.copyValueOf(kim.toCharArray()));
         System.out.println("String to Long is " + kim);
 
-        String hike="66";
+        String hike="10";
         float hike_float= Float.parseFloat(String.copyValueOf(hike.toCharArray()));
         System.out.println("String to float is " + hike);
 
