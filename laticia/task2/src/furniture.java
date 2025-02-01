@@ -16,7 +16,7 @@ public class furniture {
         String cat_String= Integer.toString(cat);
         System.out.println("Integer to String is " + cat);
 
-        double me=600;
+        double me=400;
         String me_String=Double.toString(me);
         System.out.println("Double to String is " + me);
 
