@@ -4,7 +4,7 @@ public class furniture {
         long book_long=(long) book;
         System.out.println("double to long is " + book);
 
-        double chair=567;
+        double chair=78;
         int chair_int=(int)chair;
         System.out.println("double to integer is " + " "+ chair);
 
