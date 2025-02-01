@@ -23,7 +23,7 @@ public class Customer {
     }
 
     public void deposit(double amount) {
-        if (amount > 0) {
+        if (amount > 10) {
             balance += amount;
             System.out.println("The Deposited amount is : UGX " + amount);
         } else {
