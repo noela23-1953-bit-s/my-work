@@ -11,6 +11,7 @@ public class Main {
 
                 department pat=new department("Supervision",26);
                 pat.displayInfo();
+                
 
         }
 }
