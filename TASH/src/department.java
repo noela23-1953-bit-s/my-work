@@ -1,6 +1,6 @@
 public class department {
     private static String roles;
-    private String staff;
+    private String roles;
     private int age;
 
     static {
