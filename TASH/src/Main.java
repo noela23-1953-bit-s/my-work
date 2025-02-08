@@ -1,7 +1,7 @@
 public class Main {
         public static void main(String[] args) {
                 department dep=new department("Marketing",34);
-                dep.displayInfo();
+                dep.display Info();
 
                 System.out.println();
 
