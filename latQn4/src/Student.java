@@ -17,7 +17,7 @@ public class Student {
         this.grades = grades;
     }
 
-    protected void updateGrades(double amount) {
+    protected void upgradeGrades(double amount) {
         setGrades(this.grades + amount);
     }
 }
