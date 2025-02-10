@@ -13,7 +13,7 @@ public class Home {
     public void addLocation(Family family) {
         fams.add(family);
     }
-    public void removeLocation(Family family) {
+    public void clearLocation(Family family) {
         fams.remove(family);
     }
 
