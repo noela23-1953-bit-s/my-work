@@ -2,7 +2,7 @@ import java.util.List;
 import java.util.ArrayList;
 
 public class Home {
-    private String address;
+    private String addr;
     private List<Family> fams;
 
     public Home(String address, List<Family> fams) {
