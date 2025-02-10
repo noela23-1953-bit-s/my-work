@@ -28,7 +28,7 @@ public class department {
         return staff;
     }
 
-    public int getage() {
+    public int setage() {
         return age;
     }
     public void displayInfo(){
