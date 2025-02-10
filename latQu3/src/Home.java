@@ -18,6 +18,7 @@ public class Home {
     }
 
     public void displayDetails() {
+        
         System.out.println("Address is: " + address);
         for (Family family : fams) {
             System.out.println(family);
