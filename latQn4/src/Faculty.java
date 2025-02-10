@@ -1,7 +1,7 @@
 public class Faculty {
     protected String facultyName;
 
-    public Faculty(String facultyName) {
+    protected Faculty(String facultyName) {
         this.facultyName = facultyName;
     }
 
