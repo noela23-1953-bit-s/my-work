@@ -9,7 +9,7 @@ public class Family {
         this.nationality = nationality;
     }
 
-    public String getFname() {
+    public String get Fname() {
         return fname;
     }
 
