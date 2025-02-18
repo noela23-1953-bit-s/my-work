@@ -1,6 +1,7 @@
 
 class Customer extends Bank {
     private String customerName;
+    String Address
 
     // Constructor
     public Customer(String bankName,int bankCode, String bankBranch,String customerName) {
