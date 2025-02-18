@@ -11,7 +11,7 @@ public class Main {
         Cashier k=new Cashier("UBA",467,"KAMPALA","Leticia",4567,"Norah");
         k.displayCashierInfo();
 
-        Customer c=new Customer("UBA",467,"KANSANGA","jacques");
+        Customer c=new Customer("KCB",467,"KANSANGA","jacques");
         c.displayCustomerInfo();
         c.shareCopies();
         }
