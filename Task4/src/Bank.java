@@ -1,6 +1,5 @@
 public class Bank {
     String bankName;
-    float bankCode;
     String bankBranch;
 
     public Bank(String bankName, int bankCode, String bankBranch) {
