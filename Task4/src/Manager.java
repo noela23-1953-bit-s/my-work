@@ -1,6 +1,6 @@
 public class Manager extends Bank{
     String managerName;
-    int id;
+    String id;
 
     public Manager(String bankName, int bankCode, String bankBranch,String managerName, int id) {
         super(bankName,bankCode,bankBranch);
