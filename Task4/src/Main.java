@@ -2,7 +2,7 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        Bank b=new Bank("UBA",467,"KANSANGA");
+        Bank b=new Bank("UBA",777,"KANSANGA");
 
         Manager m=new Manager("UBA",467,"KANSANGA","Leticia",4567);
         m.displayManagerInfo();
