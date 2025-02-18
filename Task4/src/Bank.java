@@ -1,6 +1,7 @@
 public class Bank {
     String bankName;
     String bankBranch;
+    String bankLocation;
 
     public Bank(String bankName, int bankCode, String bankBranch) {
         this.bankName = bankName;
