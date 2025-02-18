@@ -1,6 +1,7 @@
 
 public class Cashier extends Manager {
     String cashierName;
+    String accountsName.
 
     public Cashier(String bankName, int bankCode, String bankBranch, String name, int id, String cashierName) {
         super(bankName, bankCode, bankBranch, name, id);
