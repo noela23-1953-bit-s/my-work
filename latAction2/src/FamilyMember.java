@@ -6,7 +6,7 @@ abstract class FamilyMember {
     }
     public abstract void performAction();
 
-    public void displayDetails() {
+    public void displayInfo() {
         System.out.println("The Family Member's Name is  " + name);
     }
 
