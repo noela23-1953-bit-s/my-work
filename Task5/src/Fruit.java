@@ -21,7 +21,7 @@ class orange extends Fruit{
     }
 
     @Override
-    public void rot() {
+    public void rotting() {
         super.rot();
         System.out.println("The fruit orange is rotting");
     }
