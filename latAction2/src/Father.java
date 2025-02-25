@@ -1,5 +1,5 @@
 public class Father extends FamilyMember {
-    public Father(String name) {
+    public Father (String name) {
 
         super(name);
     }
