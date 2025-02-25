@@ -1,5 +1,5 @@
 public class Mother extends FamilyMember {
-    public Mother(String name) {
+    public Mother(String role) {
 
         super(name);
     }
