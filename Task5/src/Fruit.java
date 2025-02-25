@@ -14,7 +14,7 @@ public class Fruit {
     }
 }
 class orange extends Fruit{
-    String taste;
+    String weight;
     public orange(String type, String taste){
         super(type);
         System.out.println("The taste is"+" "+taste);
