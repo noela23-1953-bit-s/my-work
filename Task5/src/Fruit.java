@@ -6,7 +6,7 @@ public class Fruit {
     public final void display Shape(){
         System.out.println("The shape of the fruit is :"+" "+shape);
     }
-    public Fruit(String type){
+    public Fruit(String size){
         System.out.println("The fruit type is:"+" "+type);
     }
     public void rot(){
