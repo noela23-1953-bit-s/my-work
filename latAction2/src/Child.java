@@ -5,7 +5,7 @@ public class Child extends FamilyMember{
     }
 
     @Override
-    public void performAction() {
+    public void showAction() {
 
         System.out.println(name + " is playing with friends");
     }
