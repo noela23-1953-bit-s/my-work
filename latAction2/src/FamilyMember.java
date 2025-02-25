@@ -1,7 +1,7 @@
 abstract class FamilyMember {
     protected String name;
 
-    public FamilyMember(String name) {
+    protected FamilyMember(String name) {
         this.name = name;
     }
     public abstract void performAction();
