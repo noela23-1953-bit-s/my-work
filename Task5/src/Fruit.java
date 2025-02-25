@@ -3,7 +3,7 @@ import java.awt.*;
 public class Fruit {
     public final String shape="oval";
     
-    public final void displayShape(){
+    public final void display Shape(){
         System.out.println("The shape of the fruit is :"+" "+shape);
     }
     public Fruit(String type){
