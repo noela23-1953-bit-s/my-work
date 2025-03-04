@@ -24,7 +24,7 @@ public class User {
     }
 
     public void displayUserInformation(){
-        System.out.println("Name is " + name);
+        
         System.out.println("Address is " + Address);
         System.out.println("Age is " + Age);
     }
