@@ -6,7 +6,7 @@ public class Item {
    String Item Name;
    String price;
 
-    public Item(String itemName, String price) {
+    protected Item(String itemName, String price) {
         ItemName = itemName;
         this.price = price;
     }
