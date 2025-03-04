@@ -3,7 +3,7 @@ package User_package;
 public class User {
     String  name;
     String Address;
-   String Amountpaid;
+   private String Amountpaid;
 
     public User(String name, String address, int age) {
         this.name = name;
