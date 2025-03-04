@@ -7,10 +7,11 @@ public class Item {
    String price;
    String Expirydate;
 
-    protected Item(String itemName, String price) {
-        ItemName = itemName;
-        this.price = price;
-    }
+   {
+      Item name=Item Name;
+      price =price;
+      Expirydate=Expirydate;
+   }
 
     public String getItemName() {
         return ItemName;
