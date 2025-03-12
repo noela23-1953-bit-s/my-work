@@ -5,6 +5,7 @@ import java.util.List;
 public class Item {
    String ItemName;
    String price;
+   String Expirydate;
 
     public Item(String itemName, String price) {
         ItemName = itemName;
