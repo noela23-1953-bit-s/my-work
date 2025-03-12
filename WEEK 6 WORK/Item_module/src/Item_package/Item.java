@@ -7,7 +7,7 @@ public class Item {
    String price;
    String Expirydate;
 
-    public Item(String itemName, String price) {
+    protected Item(String itemName, String price) {
         ItemName = itemName;
         this.price = price;
     }
