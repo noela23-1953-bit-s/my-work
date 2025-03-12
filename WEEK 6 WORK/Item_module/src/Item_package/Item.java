@@ -4,7 +4,7 @@ import java.util.List;
 
 public class Item {
    String ItemName;
-   String price;
+
 
     public Item(String itemName, String price) {
         ItemName = itemName;
