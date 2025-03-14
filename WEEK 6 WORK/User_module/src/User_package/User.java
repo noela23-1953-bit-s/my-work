@@ -1,7 +1,7 @@
 package User_package;
 
 public class User {
-    String  name;
+   private String  name;
     
    private String Amountpaid;
     private int Telno;
