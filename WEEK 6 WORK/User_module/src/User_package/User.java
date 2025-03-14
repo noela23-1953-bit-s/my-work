@@ -4,6 +4,7 @@ public class User {
     String  name;
     
    private String Amountpaid;
+    private int Telno;
 
     public User(String name, String address, int age) {
         this.name = name;
