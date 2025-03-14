@@ -7,7 +7,7 @@ public class User {
     private int Telno;
 
     public User(String name, String address, int age) {
-        this.name = name;
+        super.name = name;
         Address = address;
         Age = age;
     }
